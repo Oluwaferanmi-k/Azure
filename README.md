@@ -1,2 +1,2 @@
-# Azure Machine Learning Designer 
-Azure Machine Learning Designer to preprocess and apply two classification algorithms
+# Airline Sentiment Analyzer 
+This is a dataset having tweets about 6 US Airlines along with their sentiments: positive, negative and neutral
